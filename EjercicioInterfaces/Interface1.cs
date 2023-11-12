@@ -8,13 +8,13 @@ namespace EjercicioInterfaces
 {
     internal interface Interface1
     {
-        
 
-      
-            string Metodo1();
-            int Metodo2();
+
+
+        string Metodo1();
+        int Metodo2();
         string Metodo3();
-       
+
 
     }
 }
